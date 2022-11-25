@@ -4,7 +4,7 @@ As outlined within Investopedia's, [Stock Analysis: Forecasting Revenue and Grow
 
 While it is critical to factor all inputs when making forward projections, is it possible to find any correlation with projections based on the interpretation of language within company reports?  By utilizing intelligent models that have been trained on financial data, I will investigate the question of whether the interpretation of finanical text can provide any indication of the direction of a given company's outlook.
 
-Refer to the [Using AI modeling to interpret 10-Q filings]() defined within the Refinitiv Developer Community for more details.
+Refer to the [Using AI modeling to interpret 10-Q filings](https://developers.refinitiv.com/en/article-catalog/article/using-ai-modeling-to-interpret-10-Q-filings) defined within the Refinitiv Developer Community for more details.
 
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating example scenarios using the Refinitiv Data Platform Library for Python.
